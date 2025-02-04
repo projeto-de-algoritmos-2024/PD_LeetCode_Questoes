@@ -1,45 +1,30 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# LeetCode_Questoes
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 42<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0044128  |  Rafael Kenji Taira |
+| 22/2032810  |  Felipe Aguiar Hansen |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Este projeto consiste em três códigos desenvolvidos para resolver questões específicas da plataforma LeetCode, utilizando programação dinâmica. O objetivo é oferecer soluções para problemas de média e alta dificuldade, abordando desafios como otimização de subproblemas, cálculo de subsequências, combinação de resultados e minimização/maximização de custos. Cada código é implementado em Python, aplicando técnicas de programação dinâmica para armazenar resultados intermediários e evitar cálculos repetitivos, garantindo eficiência e clareza nas soluções.
+
+**Problemas**
+|Código | Título | Dificuldade |
+| -- | -- | -- |
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Linguagem**: Python<br>
+Para verificar as resoluções das questões, copie a resolução da questão desejada que está dentro de sua respectiva pasta e cole na página de exercício do leetcode que tenha a questão ou no código na seção dos problemas apresentados anteriormente
 
 
-
-
+## Video
