@@ -30,3 +30,5 @@ Para verificar as resoluções das questões, copie a resolução da questão de
 
 
 ## Video
+
+### Questão Difícil 474: [Ones and Zeroes](https://youtu.be/TXU6_o7uuIY)

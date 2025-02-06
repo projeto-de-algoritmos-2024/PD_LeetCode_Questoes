@@ -9,7 +9,7 @@ class Solution:
             zeros = s.count('0')
             ones = s.count('1')
             
-            # Itera de trás para frente para evitar usar a mesma string múltiplas vezes
+            # Itera de trás para frente
             for i in range(m, zeros - 1, -1):
                 for j in range(n, ones - 1, -1):
                     dp[i][j] = max(dp[i][j], dp[i - zeros][j - ones] + 1)
