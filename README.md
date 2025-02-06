@@ -16,10 +16,12 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 **Problemas**
 |Código | Título | Dificuldade |
 | -- | -- | -- |
-
+| [474](https://leetcode.com/problems/ones-and-zeroes/description/) | Ones and Zeroes | Difícil |
 
 ## Screenshots
+- Questão 474
 
+![Print da aceitação do problema 474](./Questao_474/accepted_474.png)
 
 
 ## Uso 
