@@ -17,12 +17,20 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 |Código | Título | Dificuldade |
 | -- | -- | -- |
 | [474](https://leetcode.com/problems/ones-and-zeroes/description/) | Ones and Zeroes | Difícil |
-
+| [354](https://leetcode.com/problems/russian-doll-envelopes/description/) | Russian Dolls Envelopes | Difícil |
+| [743](https://leetcode.com/problems/network-delay-time/description/) | Network Delay Time | Médio |
 ## Screenshots
 - Questão 474
 
 ![Print da aceitação do problema 474](./Questao_474/accepted_474.png)
 
+- Questão 354
+
+![Print da aceitação do problema 354](./Questão_354/accepted_354.png)
+
+- Questão 743
+
+![Print da aceitação do problema 743](./Questão_743/accepted_743.png)
 
 ## Uso 
 **Linguagem**: Python<br>
@@ -32,3 +40,5 @@ Para verificar as resoluções das questões, copie a resolução da questão de
 ## Video
 
 ### Questão Difícil 474: [Ones and Zeroes](https://youtu.be/TXU6_o7uuIY)
+### Questão Difícil 354: [Russian Dolls Envelopes](https://youtu.be/99b5gP6VXys)
+### Questão Difícil 743: [Network Delay Time](https://youtu.be/I2GGoI-eJ8o)
